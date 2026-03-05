@@ -23,6 +23,7 @@ laptop_data.csv
 These datasets were cleaned and preprocessed before training the models. After preprocessing i downloaded it :
 
 Cleaned_Car_data.csv
+
 Cleaned_laptop_data.csv
 
 ## Models
@@ -35,8 +36,8 @@ laptop_model.pkl – trained laptop price prediction model
 app.py – Flask application  
 templates/ – HTML files for frontend  
 static/ – CSS and styling files  
-car_cleaned.csv – car dataset  
-laptop_cleaned.csv – laptop dataset  
+Cleaned_Car_data.csv – Preproceesed car dataset  
+Cleaned_laptop_data.csv –  Preprocessed laptop dataset  
 
 ## How to Run
 
@@ -49,5 +50,6 @@ Run the project:
 python app.py
 
 Open browser and go to:
+
 
 http://127.0.0.1:5000/
