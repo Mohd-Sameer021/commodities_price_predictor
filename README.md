@@ -8,6 +8,7 @@ Users can enter product specifications and the system predicts the estimated pri
 
 Python  
 Pandas  
+NumPy
 Scikit-learn  
 Flask  
 HTML  
@@ -53,3 +54,4 @@ Open browser and go to:
 
 
 http://127.0.0.1:5000/
+
